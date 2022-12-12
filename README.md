@@ -1,4 +1,4 @@
-# Payload Library for the USB Rubber Ducky by Kris Krazy
+# Payload Library for the USB Rubber Ducky by Kris Yotam
 
 This repository contains payloads and extensions for the Hak5 USB Rubber Ducky. These payloads created by other's and myself are of personal favorites and one's utilized often.
 
